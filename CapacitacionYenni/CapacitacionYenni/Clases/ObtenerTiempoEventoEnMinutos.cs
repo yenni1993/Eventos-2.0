@@ -4,27 +4,27 @@ using System;
 namespace CapacitacionYenni.Clases
 {
     /// <summary>
-    /// Clase ConvertirTiempoEventoEnMinutos que implementa de la interface IConvertirTiempoEvento.
+    /// Clase ObtenerTiempoEventoEnMinutos que implementa de la interface IConvertirTiempoEvento.
     /// </summary>
-    public class ConvertirTiempoEventoEnMinutos : IConvertirTiempoEvento
+    public class ObtenerTiempoEventoEnMinutos : IObtenerTiempoEvento
     {
-        IConvertirTiempoEvento IConvertirTiempoEvento;
+        IObtenerTiempoEvento IConvertirTiempoEvento;
 
         /// <summary>
         /// Método que asigna una nueva conversión del tiempo transcurrido del evento.
         /// </summary>
         /// <param name="_IConvertirTiempoEvento">Interface para convertir el tiempo transcurrido del evento.</param>
-        public void AsignarNuevaConversion(IConvertirTiempoEvento _IConvertirTiempoEvento)
+        public void AsignarNuevaConversion(IObtenerTiempoEvento _IConvertirTiempoEvento)
         {
             this.IConvertirTiempoEvento = _IConvertirTiempoEvento;
         }
 
         /// <summary>
-        /// Método que convierte el tiempo transcurrido del evento en minutos.
+        /// Método que obtiene el tiempo transcurrido del evento en minutos.
         /// </summary>
         /// <param name="_tsDiferenciaFecha">Intervalo de tiempo del evento.</param>
         /// <returns>Tiempo transcurrido del evento.</returns>
-        public string ConvertirTiempo(TimeSpan _tsDiferenciaFecha)
+        public string ObtenerTiempoTranscurrido(TimeSpan _tsDiferenciaFecha)
         {
             int iTotalMinutos = Math.Abs(_tsDiferenciaFecha.Minutes);
             string cResultado = string.Empty;

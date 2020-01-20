@@ -26,3 +26,10 @@ C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Deb
 C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.csproj.CoreCompileInputs.cache
 C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.exe
 C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Eventos\Eventos-2.0\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.csprojAssemblyReference.cache
+C:\Users\yenni.canul\Eventos\Eventos-2.0\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.csproj.CoreCompileInputs.cache
+C:\Users\yenni.canul\Eventos\Eventos-2.0\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Eventos\Eventos-2.0\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Eventos\Eventos-2.0\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe.config
+C:\Users\yenni.canul\Eventos\Eventos-2.0\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Eventos\Eventos-2.0\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.pdb

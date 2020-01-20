@@ -1,10 +1,8 @@
-﻿using CapacitacionYenni.Clases;
-using CapacitacionYenni.DTO;
+﻿using CapacitacionYenni.DTO;
 using CapacitacionYenni.Interfaces;
 using System;
-using System.Collections.Generic;
 
-namespace CapacitacionYenni
+namespace CapacitacionYenni.Clases
 {
     /// <summary>
     /// Clase EjecutarAplicacionEventos.
@@ -18,10 +16,10 @@ namespace CapacitacionYenni
             string cTiempoConvertido = string.Empty;
             string[] arrLineasArchivo = null;
             TimeSpan tsDiferencia = new TimeSpan();
-            IConvertirTiempoEvento IConvertirTiempoEnMeses = new ConvertirTiempoEventoEnMeses();
-            IConvertirTiempoEvento IConvertirTiempoEnDias = new ConvertirTiempoEventoEnDias();
-            IConvertirTiempoEvento IConvertirTiempoEnHoras = new ConvertirTiempoEventoEnHoras();
-            IConvertirTiempoEvento IConvertirTiempoEnMinutos = new ConvertirTiempoEventoEnMinutos();
+            IObtenerTiempoEvento IConvertirTiempoEnMeses = new ObtenerTiempoEventoEnMeses();
+            IObtenerTiempoEvento IConvertirTiempoEnDias = new ObtenerTiempoEventoEnDias();
+            IObtenerTiempoEvento IConvertirTiempoEnHoras = new ObtenerTiempoEventoEnHoras();
+            IObtenerTiempoEvento IConvertirTiempoEnMinutos = new ObtenerTiempoEventoEnMinutos();
             IObtenerMensajeEvento IPrepararMensajeEvento;
             ILeerArchivo ILeerArchivo = new LeerArchivo();
 
@@ -38,7 +36,7 @@ namespace CapacitacionYenni
                 eventoDTO.dtFechaActual = DateTime.Now;
 
                 tsDiferencia = (eventoDTO.dtFechaActual - eventoDTO.dtFechaEvento);  
-                cTiempoConvertido = IConvertirTiempoEnMeses.ConvertirTiempo(tsDiferencia);
+                cTiempoConvertido = IConvertirTiempoEnMeses.ObtenerTiempoTranscurrido(tsDiferencia);
 
                 IPrepararMensajeEvento = new ObtenerMensajeEvento();
                 cResultado = IPrepararMensajeEvento.ObtenerMensajeEvento(eventoDTO, cTiempoConvertido);

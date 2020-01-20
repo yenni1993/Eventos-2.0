@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CapacitacionYenni.Clases;
+using System;
 using System.Collections.Generic;
 
 namespace CapacitacionYenni

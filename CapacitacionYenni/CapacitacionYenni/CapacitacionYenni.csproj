@@ -43,14 +43,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Clases\ConvertirTiempoEventoEnHoras.cs" />
-    <Compile Include="Clases\ConvertirTiempoEventoEnMeses.cs" />
-    <Compile Include="Clases\ConvertirTiempoEventoEnMinutos.cs" />
-    <Compile Include="Clases\ConvertirTiempoEventoEnDias.cs" />
+    <Compile Include="Clases\ObtenerTiempoEventoEnHoras.cs" />
+    <Compile Include="Clases\ObtenerTiempoEventoEnMeses.cs" />
+    <Compile Include="Clases\ObtenerTiempoEventoEnMinutos.cs" />
+    <Compile Include="Clases\ObtenerTiempoEventoEnDias.cs" />
     <Compile Include="Clases\LeerArchivo.cs" />
     <Compile Include="Clases\ObtenerMensajeEvento.cs" />
     <Compile Include="DTO\Evento.cs" />
-    <Compile Include="Interfaces\IConvertirTiempoEvento.cs" />
+    <Compile Include="Interfaces\IObtenerTiempoEvento.cs" />
     <Compile Include="Interfaces\ILeerArchivo.cs" />
     <Compile Include="Interfaces\IObtenerMensajeEvento.cs" />
     <Compile Include="Clases\EjecutarAplicacionEventos.cs" />

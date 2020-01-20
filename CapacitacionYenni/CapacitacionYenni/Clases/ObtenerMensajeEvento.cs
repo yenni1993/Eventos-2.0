@@ -26,7 +26,9 @@ namespace CapacitacionYenni.Clases
                 cTiempoTranscurridoEvento = (_entEventoDTO.dtFechaActual > _entEventoDTO.dtFechaEvento) ? cTiempoPasadoEvento
                    : (_entEventoDTO.dtFechaActual < _entEventoDTO.dtFechaEvento) ? cTiempoFuturoEvento : string.Empty;
 
-                cMensajeEvento = $"{_entEventoDTO.cTituloEvento} {cTiempoTranscurridoEvento} {_cTiempoTranscurrido}";
+                
+                cMensajeEvento = !string.IsNullOrWhiteSpace(cTiempoTranscurridoEvento) ? 
+                    $"{_entEventoDTO.cTituloEvento} {cTiempoTranscurridoEvento} {_cTiempoTranscurrido}" : string.Empty;
             }
 
             return cMensajeEvento;
