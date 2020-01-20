@@ -1,0 +1,28 @@
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe.config
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.csprojAssemblyReference.cache
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.csproj.CoreCompileInputs.cache
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V2\CapacitacionYenni\obj\Debug\CapacitacionYenni.csprojAssemblyReference.cache
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V2\CapacitacionYenni\obj\Debug\CapacitacionYenni.csproj.CoreCompileInputs.cache
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V2\CapacitacionYenni\obj\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V2\CapacitacionYenni\obj\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V2\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe.config
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V2\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V2\CapacitacionYenni\bin\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V3\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe.config
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V3\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V3\CapacitacionYenni\bin\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V3\CapacitacionYenni\obj\Debug\CapacitacionYenni.csproj.CoreCompileInputs.cache
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V3\CapacitacionYenni\obj\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V3\CapacitacionYenni\obj\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Documents\BOT-YENNI\Requerimientos\SE-API\RQM 176814\CursosUML\CapacitacionYenni_V3\CapacitacionYenni\obj\Debug\CapacitacionYenni.csprojAssemblyReference.cache
+C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe.config
+C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\bin\Debug\CapacitacionYenni.pdb
+C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.csprojAssemblyReference.cache
+C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.csproj.CoreCompileInputs.cache
+C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.exe
+C:\Users\yenni.canul\Eventos\Eventos\CapacitacionYenni\CapacitacionYenni\obj\Debug\CapacitacionYenni.pdb
